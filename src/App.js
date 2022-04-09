@@ -5,7 +5,7 @@ function App() {
   return (
     <div>
       <h1>this heading is from local repository</h1>
-      
+      <h1> this heading is from remote repository</h1>
      
     </div>
   );
