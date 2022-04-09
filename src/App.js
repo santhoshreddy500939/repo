@@ -6,7 +6,7 @@ function App() {
     <div>
       <h1>this heading is from local repository</h1>
       <h1> this heading is from remote repository</h1>
-     
+    <img src="https://img.jagranjosh.com/images/2022/February/1822022/Chhatrapati-Shivaji-Maharaj-biography.webp"></img>
     </div>
   );
 }
